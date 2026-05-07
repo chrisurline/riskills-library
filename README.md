@@ -8,7 +8,7 @@ A searchable, GitHub Pages-hosted library of reusable agent skills and tools.
 2. Go to **Settings → Pages → Source** → select **GitHub Actions**
 3. Push any commit to `main` — the site builds and deploys automatically
 
-Live at: `https://<your-org>.github.io/<repo-name>/`
+Live at: https://chrisurline.github.io/riskills-library/
 
 ## Adding a skill
 
