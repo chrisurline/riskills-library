@@ -2,6 +2,8 @@
 
 A searchable, GitHub Pages-hosted library of reusable agent skills and tools.
 
+![Skills Library](screenshot.png)
+
 ## Setup (one-time)
 
 1. Push this repo to GitHub
